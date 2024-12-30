@@ -13,7 +13,7 @@ const ibmPlexSansArabic = IBM_Plex_Sans_Arabic({
 })
 
 export const metadata = {
-  title: 'بيانات سورية - Syria Data',
+  title: 'بيانات سوريا - Syria Data',
   description: 'مصدرك الأول لبيانات وموارد البحث المتعلقة بسوريا',
   icon: '/favicon.ico',
   icons: {
