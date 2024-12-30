@@ -28,7 +28,7 @@ export default function Home() {
       <div className="notification-bar">
         <span className="font-arabic">{translations[lang].congrats}</span>
         <Image
-          src="/home/flag.svg"
+          src="/flag.svg"
           alt="Flag"
           width={25}
           height={25}
@@ -55,7 +55,7 @@ export default function Home() {
             {/* Logo */}
             <div className="flex justify-center">
               <Image
-                src="/home/logo-black.png"
+                src="/logo-black.png"
                 alt="Logo"
                 width={200}
                 height={80}
