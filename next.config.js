@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // your config options here
+  output: "export",
+  basePath: "/home",
 }
 
 module.exports = nextConfig
